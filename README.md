@@ -1,6 +1,6 @@
 <!-- Banner Gambar -->
 <p align="center">
-  <img src="https://github.com/Haxvirayer/Haxvirayer/blob/main/readme.png" width="75%" />
+  <img src="https://github.com/Haxvirayer/Haxvirayer/blob/main/readme.png" width="80%" />
 </p>
 
 <!-- Teks Animasi Ketik -->
