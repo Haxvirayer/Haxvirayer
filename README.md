@@ -23,7 +23,7 @@
   <tr>
     <td>
       <a href="https://portswigger.net/burp" target="_blank">
-        <img src="https://github.com/Haxvirayer/save_image/blob/main/burpsuite.png" width="200"/>
+        <img src="https://github.com/Haxvirayer/save_image/blob/main/burpsuite.png" width="400"/>
       </a>
     </td>
     <td>
