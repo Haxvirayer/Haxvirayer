@@ -23,36 +23,33 @@
   <tr>
     <td>
       <a href="https://portswigger.net/burp" target="_blank">
-        <img src="https://github.com/Haxvirayer/save_image/blob/main/burpsuite.png" width="450"/>
+        <img src="https://github.com/Haxvirayer/save_image/blob/main/burpsuite.png" width="600"/>
       </a>
     </td>
     <td>
       <a href="https://hex-rays.com/ida-pro/" target="_blank">
-        <img src="https://github.com/Haxvirayer/save_image/blob/main/ida.jpeg" width="500"/>
+        <img src="https://github.com/Haxvirayer/save_image/blob/main/ida.jpeg" width="800"/>
       </a>
     </td>
     <td>
       <a href="https://gchq.github.io/CyberChef/" target="_blank">
-        <img src="https://github.com/Haxvirayer/save_image/blob/main/cybercheff.png" width="450"/>
+        <img src="https://github.com/Haxvirayer/save_image/blob/main/cybercheff.png" width="800"/>
       </a>
     </td>
     <td>
       <a href="https://nmap.org/" target="_blank">
-        <img src="https://github.com/Haxvirayer/save_image/blob/main/nmap.jpeg" width="450"/>
+        <img src="https://github.com/Haxvirayer/save_image/blob/main/nmap.jpeg" width="500"/>
       </a>
     </td>
     <td>
       <a href="https://sqlmap.org/" target="_blank">
-        <img src="https://github.com/Haxvirayer/save_image/blob/main/sqlmap.png" width="450"/>
+        <img src="https://github.com/Haxvirayer/save_image/blob/main/sqlmap.png" width="800"/>
       </a>
     </td>
     <td>
       <a href="https://owasp.org/www-project-zap/" target="_blank">
-        <img src="https://github.com/Haxvirayer/save_image/blob/main/zapproxy.jpeg" width="450"/>
+        <img src="https://github.com/Haxvirayer/save_image/blob/main/zapproxy.jpeg" width="500"/>
       </a>
     </td>
   </tr>
 </table>
-
-
-
